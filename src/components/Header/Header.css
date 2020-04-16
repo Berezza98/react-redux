@@ -1,0 +1,11 @@
+.todo-header {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background: chocolate;
+}
+
+.todo-header h4 {
+    margin: 0;
+    color: white;
+}

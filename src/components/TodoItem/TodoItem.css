@@ -1,0 +1,23 @@
+.todo-item {
+    width: 100%;
+    height: 40px;
+    background: lightsalmon;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+}
+
+.todo-item-name {
+    width: 60%;
+}
+
+.todo-item-actions {
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.done {
+    text-decoration: line-through;
+}

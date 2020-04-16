@@ -1,0 +1,7 @@
+.todo-wrapper {
+    width: 80%;
+    min-height: 50%;
+    background: lightgray;
+    display: flex;
+    flex-direction: column;
+}

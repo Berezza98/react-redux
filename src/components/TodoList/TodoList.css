@@ -1,0 +1,5 @@
+.todo-list {
+    height: 300px;
+    overflow: auto;
+    flex-grow: 1;
+}
