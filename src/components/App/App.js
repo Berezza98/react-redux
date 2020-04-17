@@ -85,7 +85,9 @@ class App extends Component {
     this.setState(state => {
       const newItem = {
         id: this.nextId++,
-        title: name
+        title: name,
+        done: false,
+        important: false
       };
   
       return {
